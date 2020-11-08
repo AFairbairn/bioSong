@@ -1,2 +1,5 @@
-/Recording.py
 /old.py
+/data/
+.idea
+.vscode
+__pycache__
